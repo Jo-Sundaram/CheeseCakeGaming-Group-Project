@@ -1,6 +1,6 @@
 # CheeseCakeGaming-Group-Project
 Repository for my team's grade 11 CS project.
-As a team of 3 people, we decided to try and create our own Visual Novel game for our project using the Python based engine Ren'Py.
+As a team of 3 people, we decided to try and create our own Visual Novel game, named Fated to Bloom, for our project using the Python based engine Ren'Py.
 
 # Fated To Bloom - About the Game
 This game follows the story of a boy in highschool, living with his mildly abusive aunt and uncle. His parents and younger sister are gone, and the only light in his life is his best friend.
