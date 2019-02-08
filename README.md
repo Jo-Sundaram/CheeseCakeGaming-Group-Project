@@ -19,7 +19,7 @@ This was our first time attempting a project like this, so the game's playtime i
 * Lead developer/programmer/sound manager - Jo Sundaram
    * Back-end/front-end programming of the game, creating multiple branches of the story based on the player's interactions. 
    * Character animation and character/scene transitions.
-   * Also in charge of adding music and sound effects.
+   * Also in charge of music and sound effects.
 * Game designer/artist - Sonal Sharma
    * Designed all of the art used in the game (main menubackground images, character design) digitally, with aid from reference images.
    * Made the startup animation.
