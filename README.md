@@ -8,7 +8,7 @@ As the game progresses, he notices his teachers begin acting strange, coincident
 
 # Our Team
 
-*Project Manager/story writer - Jenny Wong
-*Lead developer/programmer/sound manager - Jo Sundaram
-*Game designer/artist - Sonal Sharma
+* Project Manager/story writer - Jenny Wong
+* Lead developer/programmer/sound manager - Jo Sundaram
+* Game designer/artist - Sonal Sharma
 
