@@ -1,6 +1,7 @@
 # CheeseCakeGaming-Group-Project
 Repository for my team's grade 11 CS project.
 As a team of 3 people, we decided to try and create our own Visual Novel game, named Fated to Bloom, for our project using the Python based engine Ren'Py.
+
 Our "company name" is CheeseCakeGaming, based on our shared love of cheesecake and gaming!
 
 # Fated To Bloom - About the Game
