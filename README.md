@@ -13,14 +13,14 @@ Visual Novels are story based games with multiple different paths and endings, a
 This was our first time attempting a project like this, so the game's playtime is definitely much shorter than any professional studio's work. Still, we made the story and plot as interesting and captivating as possible for the player.
 
 # About Our Team
-* Project Manager/story writer - Jenny Wong
+### Project Manager/story writer - Jenny Wong
    * Overall management of the project and it's development process.
    * Wrote original story and plot for the game and assisted with front-end programming.
-* Lead developer/programmer/sound manager - Jo Sundaram
+### Lead developer/programmer/sound manager - Jo Sundaram
    * Back-end/front-end programming of the game, creating multiple branches of the story based on the player's interactions. 
    * Character animation and character/scene transitions.
    * Also in charge of music and sound effects.
-* Game designer/artist - Sonal Sharma
+### Game designer/artist - Sonal Sharma
    * Designed all of the art used in the game (main menubackground images, character design) digitally, with aid from reference images.
    * Made the startup animation.
    * Assisted with back-end programming
